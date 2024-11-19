@@ -8,6 +8,10 @@ sidebar_position: 996
 
 ## 捐助渠道
 
+### 爱发电
+
+[通过爱发电捐助我们](https://afdian.com/a/ghacg)
+
 ### 微信
 
 ![WechatQR](https://cdn.jsdelivr.net/gh/HisAtri/LrcAPI@main/src/img/qrcode.png)

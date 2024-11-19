@@ -49,3 +49,11 @@ docker run -d -p 28883:28883 -v /home/user/music:/music hisatri/lrcapi:1.5.3
 注意：图片返回目前采用反向代理策略，可能存在一定的上下行流量消耗和延迟。
 
 支持使用Nginx或Apache进行反向代理与SSL。
+
+## 生成命令
+
+如果你还是看不懂，不如尝试以下功能：
+
+import CommandGenerator from '@site/src/components/CommandGenerator';
+
+<CommandGenerator />

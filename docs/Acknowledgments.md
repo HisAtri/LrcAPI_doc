@@ -19,3 +19,17 @@ sidebar_position: 999
 ## 感谢推荐
 
 - [初之音-Navidrome：自建音乐库的又一选择](https://www.himiku.com/archives/navidrome.html)
+
+## 致谢名单
+
+感谢所有赞助者：
+
+import Tag from '@site/src/components/ColorfulTags';
+
+<Tag>XinLong</Tag>
+<Tag>扑克</Tag>
+<Tag>Yule</Tag>
+<Tag>Erikaze</Tag>
+<Tag>Mio</Tag>
+<Tag>C2H5OH</Tag>
+<Tag>hikaru</Tag>
