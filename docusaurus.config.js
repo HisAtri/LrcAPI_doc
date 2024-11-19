@@ -134,7 +134,7 @@ const config = {
 如未特别注明，本站内容使用<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0/知识共享署名-非商业性使用-相同方式共享 4.0 国际协议</a>，禁止商业使用。<br />
 站内链接的其他作者项目，其著作权归属于原作者，适用于其本身的开源协议。本网站仅提供链接，不对这些项目的内容和使用负责。<br />
 本站 Logo 并非使用CC BY-NC-SA 4.0协议提供。不得在未经授权的情况下使用本站 Logo。<br />
-Build版本20240503<br />
+Build版本20241119<br />
 <img src="/img/logo.svg" alt="网站Logo" width="50" height="50" /><br />`,
       },
       prism: {

@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Tag编辑器
+# 歌词确认 / Tag编辑器
 
 修改音乐文件Tag，支持`AAC`、`APEv2`、`AIFF`、`ASF`、`DSF`、`ID3`、`FLAC`、`VORBIS`、`WAVE`等标签格式的修改。此部分功能实现参考`Music-tag-web`项目。
 
@@ -12,8 +12,8 @@ sidebar_position: 3
 
 ### 请求和响应
 
-- 请求路径: `/tag`
-- 请求方式: `GET`、`POST`、`PUT`(推荐)
+- 请求路径: `/tag`、`/confirm`
+- 请求方式: `GET`、`POST`、`PUT`
 - 请求权限：`rw`
 - 请求体
 
